@@ -1,5 +1,5 @@
 # Hotel-Reservation-System
-Website for an Hotel Reservation 
+A Website for an Hotel Reservation System
 
 The database has 7 entities: Hotel, Guest, Rooms, RoomType, Reservation, admin and blacklist.
 1.	Hotel: id, Name, Approved, activation_start_date, password, stars, Image, Location, rate, premium, amount_owned, suspended.
